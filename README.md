@@ -1,2 +1,3 @@
-# curso_github
-primer proyecto para aprender a usar github
+# Curso_Github
+
+Primer proyecto para aprender a usar github
